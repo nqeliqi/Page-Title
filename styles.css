@@ -1,0 +1,23 @@
+.Top{
+    background: url("https://ssl.ulximg.com/image/750x750/cover/1543559464_1adb30161471c8c01850a8074dd1e4c3.jpg/7f21efeba154b0ad14fb20e2ca1a3ab7/1543559464_92cce3487cf64f3d3c1fe244096f00f1.jpg");
+    height: 450px;
+}
+.Stok{
+    text-align: center;
+}
+
+.button-parent {
+    display:flex;
+    justify-content:center;
+}
+
+.button {
+    width: 115px;
+    padding: .1px;    
+    background-color: skyblue;
+}
+.img{
+    display:flex;
+    justify-content: center;
+}
+
